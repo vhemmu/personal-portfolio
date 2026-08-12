@@ -1,6 +1,10 @@
-# Hemant Verma — Personal Portfolio
+Hemant Verma — Personal Portfolio
 
 A responsive personal portfolio website showcasing my skills, projects, experience, and contact information.
+
+🌐 **Live Portfolio:** https://hemant-verma-portfolio.vercel.app
+
+💻 **GitHub Repository:** https://github.com/vhemmu/personal-portfolio
 
 ## Projects
 
