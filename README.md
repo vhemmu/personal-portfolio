@@ -1,12 +1,18 @@
-# Hemant Verma Portfolio
+# Hemant Verma — Personal Portfolio
 
-This is a standalone replacement portfolio, deliberately created outside the original published site so the current portfolio stays recoverable.
+A responsive personal portfolio website showcasing my skills, projects, experience, and contact information.
 
-## Before publishing
+## Projects
 
-1. Add verified live-demo and repository URLs to the Café Nova and Payroll project links when available.
-2. Add a real resume PDF and change the “Request my resume” link to it.
+- Café Nova — QR-based café ordering system
+- Payroll Management System — C-based payroll management project
 
-## Preview
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Getting Started
 
 Open `index.html` in a browser. No build step or dependencies are required.
